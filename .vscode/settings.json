@@ -12,5 +12,6 @@
     "python.testing.pytestArgs": [
         "Aulas-Aprendizados"
     ],
-    "python.testing.promptToConfigure": false
+    "python.testing.promptToConfigure": false,
+    "totvsLanguageServer.welcomePage": false
 }
